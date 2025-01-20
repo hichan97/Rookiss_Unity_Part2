@@ -1,0 +1,14 @@
+E:\VisualStudio\Algorithm\bin\Debug\net8.0\Algorithm.exe
+E:\VisualStudio\Algorithm\bin\Debug\net8.0\Algorithm.deps.json
+E:\VisualStudio\Algorithm\bin\Debug\net8.0\Algorithm.runtimeconfig.json
+E:\VisualStudio\Algorithm\bin\Debug\net8.0\Algorithm.dll
+E:\VisualStudio\Algorithm\bin\Debug\net8.0\Algorithm.pdb
+E:\VisualStudio\Algorithm\obj\Debug\net8.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\Algorithm\obj\Debug\net8.0\Algorithm.AssemblyInfoInputs.cache
+E:\VisualStudio\Algorithm\obj\Debug\net8.0\Algorithm.AssemblyInfo.cs
+E:\VisualStudio\Algorithm\obj\Debug\net8.0\Algorithm.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Algorithm\obj\Debug\net8.0\Algorithm.dll
+E:\VisualStudio\Algorithm\obj\Debug\net8.0\refint\Algorithm.dll
+E:\VisualStudio\Algorithm\obj\Debug\net8.0\Algorithm.pdb
+E:\VisualStudio\Algorithm\obj\Debug\net8.0\Algorithm.genruntimeconfig.cache
+E:\VisualStudio\Algorithm\obj\Debug\net8.0\ref\Algorithm.dll
